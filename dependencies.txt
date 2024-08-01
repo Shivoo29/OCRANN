@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+pillow
+opencv-python
+opencv-contrib-python
+jupyter
+pytesseract
+pdf2image
+PyMuPDF 
+Pillow
