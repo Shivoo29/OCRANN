@@ -11,3 +11,4 @@ pdf2image
 PyMuPDF 
 Pillow
 tensorflow
+pypdf2
